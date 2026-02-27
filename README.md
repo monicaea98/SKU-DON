@@ -56,6 +56,8 @@ The dataset includes the following fields:
 - Employee distribution by state  
 - Gender breakdown
 
+![Employee Overview](screenshots/overview.png)
+
 ---
 
 ### 2️⃣ Salary Analysis
@@ -64,7 +66,9 @@ The dataset includes the following fields:
 - Salary distribution by age groups  
 - Salary distribution by department  
 - Geographic salary distribution  
-- Gender salary comparison  
+- Gender salary comparison
+
+![Salary Analysis](screenshots/salary-analysis.png)
 
 ---
 
@@ -73,7 +77,9 @@ The dataset includes the following fields:
 - Average performance by manager  
 - Average performance by department  
 - Performance distribution ranges  
-- Geographic performance insights  
+- Geographic performance insights
+
+![Performance Analysis](screenshots/performance-analysis.png)
 
 ---
 
