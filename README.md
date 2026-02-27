@@ -56,10 +56,6 @@ The dataset includes the following fields:
 - Employee distribution by state  
 - Gender breakdown
 
-![Employee Overview](screenshots/overview.png)
-![Salary Analysis](screenshots/salary.png)
-![Performance Analysis](screenshots/performance.png)
-
 ---
 
 ### 2️⃣ Salary Analysis
